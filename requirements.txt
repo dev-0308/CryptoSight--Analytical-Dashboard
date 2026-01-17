@@ -1,0 +1,8 @@
+pandas
+numpy
+requests
+panel
+plotly
+scikit-learn
+
+# Install using pip command
