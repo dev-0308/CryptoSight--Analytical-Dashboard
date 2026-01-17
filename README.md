@@ -1,4 +1,4 @@
-# CryptoSight--Analytical-Dashboard
+# CryptoBoard--Analytical-Dashboard
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -11,7 +11,7 @@
 - [Author](#author)
 
 ## Project Overview
-CryptoSight is an interactive cryptocurrency analytics dashboard developed using Python. The application fetches historical cryptocurrency market data from a public API, stores it locally using SQLite, and presents analytical insights through a web-based dashboard. The project demonstrates an end-to-end data analytics workflow including data ingestion, storage, processing, visualization, and basic predictive analysis.
+CryptoBoard is an interactive cryptocurrency analytics dashboard developed using Python. The application fetches historical cryptocurrency market data from a public API, stores it locally using SQLite, and presents analytical insights through a web-based dashboard. The project demonstrates an end-to-end data analytics workflow including data ingestion, storage, processing, visualization, and basic predictive analysis.
 
 ## Objectives
 - Build an end-to-end analytics application using Python  
