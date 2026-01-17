@@ -1,5 +1,4 @@
 # CryptoSight--Analytical-Dashboard
-# CryptoSight Dashboard
 
 ## Table of Contents
 - [Project Overview](#project-overview)
